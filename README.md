@@ -1,4 +1,27 @@
-## Hi there 👋
+Hi, I'm Maimoona Ayyub 👋
+
+Artificial intelligence student| Aspiring AI & Computer Vision Developer
+
+I'm passionate about technology and enjoy learning how things work through code. I'm currently exploring AI, Computer Vision, and Software Development while building my programming skills through practical projects.
+
+💻 Technical Skills
+
+- Python | Java | C++ | SQL
+
+🚀 Interests
+
+- Artificial Intelligence
+- Computer Vision
+- Machine Learning
+- Software Development
+
+🎯 My Focus
+
+Learning, building meaningful projects, and growing as a developer.
+
+📂 Projects
+
+Explore my repositories to see what I'm learning and building.
 
 <!--
 **maimoona56/maimoona56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
